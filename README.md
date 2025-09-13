@@ -209,10 +209,3 @@ You can test the API endpoints using:
 
 FastAPI provides detailed logs. Check the console output when running the server for any error messages.
 
-## Contributing
-
-1. Fork the repository
-2. Create a feature branch
-3. Make your changes
-4. Test thoroughly
-5. Submit a pull request

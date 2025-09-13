@@ -25,8 +25,7 @@ This project is a RESTful API for managing employee records, built with Python, 
 ### 1. Clone the Repository
 
 ```bash
-git clone <repository_url>
-cd <repository_directory>
+git clone https://github.com/sgk0204/Project_Llumo.git
 ```
 
 ### 2. Create a Virtual Environment
